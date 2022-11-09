@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/jmp2814/employee-tracker-database#readme",
   "dependencies": {
+    "asciiart-logo": "^0.2.7",
     "console.table": "^0.10.0",
     "dotenv": "^16.0.3",
     "inquirer": "^8.2.4",
