@@ -25,3 +25,11 @@ SO THAT I can organize and plan my business
 - THEN I am prompted to enter the employee’s first name, last name, role, and manager, and that employee is added to the database
 - WHEN I choose to update an employee role
 - THEN I am prompted to select an employee to update and their new role and this information is updated in the database
+
+## Screenshot
+![Capture](https://user-images.githubusercontent.com/103081923/200909851-35aa991c-13b4-4897-a1be-26528233e6f1.JPG)
+This shows the app being immediately terminated
+
+
+
+
