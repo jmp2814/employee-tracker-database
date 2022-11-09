@@ -3,13 +3,6 @@ const inquirer = require("inquirer");
 const mysql2 = require("mysql2");
 const cTable = require("console.table");
 
-const connection = mysql2.createConnection({
-  host: "localhost",
-  user: "root",
-  password: "Shamck2814!MbDi01!)",
-  database: "company_db",
-});
-
 function showChoices() {
   inquirer.prompt([
     {
